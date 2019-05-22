@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-public class GuessTheString {
+public class Hangman {
 
 	public static void main(String args  []) {
 		
